@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is...
 # Mark Achiles "Aki" G. Flores Jr.
 
-**`1st Year Student, Computer Science` `Co-Founder, AWS Cloud Club - PUP Manila`**
+**`2nd Year Student, Computer Science` `Co-Founder, AWS Cloud Club - PUP Manila`**
 
-I am a 1st year college student taking up a Bachelor's degree in Computer Science. My passion for problem solving and programming will be my tools as I leave my digital mark unto this world.
+I am a 2nd year college student taking up a Bachelor's degree in Computer Science. My passion for problem solving and programming will be my tools as I leave my digital mark unto this world.
 
 ---
 
